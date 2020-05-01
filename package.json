@@ -1,6 +1,6 @@
 {
   "name": "template-monorepo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": true,
   "description": "Ivan Ganev personal Monorepo Template",
   "homepage": "https://github.com/Ganevru/template-monorepo",
@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "lerna": "^3.20.2",
-    "prettier": "^1.19.1",
+    "prettier": "^2.0.5",
     "yarn": "^1.21.1"
   },
   "engines": {
